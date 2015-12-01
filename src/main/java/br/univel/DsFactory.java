@@ -8,6 +8,6 @@ public class DsFactory {
 		return new CustomDs();
 	}
 	// Porque é static?
-	// 
+	// Porque o Jasper Studio precisa que seja. Nem pergunte kk
 
 }
